@@ -19,5 +19,7 @@
     "energy",
     "fiber",
     "site-selection"
-  ]
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://dchub.cloud/privacy"
 }
