@@ -1,7 +1,14 @@
 {
-  "name": "dchub",
-  "owner": { "name": "Jonathan Martone", "email": "jonathan@dchub.cloud" },
+  "name": "dchub-cloud",
+  "owner": {
+    "name": "Jonathan Martone",
+    "email": "jonathan@dchub.cloud"
+  },
   "plugins": [
-    { "name": "dchub", "source": "./", "description": "The real-time agentic procurement endpoint and data center knowledge hub." }
+    {
+      "name": "dchub-cloud",
+      "source": "./",
+      "description": "The real-time agentic procurement endpoint and data center knowledge hub."
+    }
   ]
 }
