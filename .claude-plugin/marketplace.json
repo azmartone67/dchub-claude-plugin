@@ -1,5 +1,6 @@
 {
   "name": "dchub-cloud",
+  "description": "DC Hub's Claude Code plugin: read-only data center, power grid and energy data with sources and dates.",
   "owner": {
     "name": "Jonathan Martone",
     "email": "jonathan@dchub.cloud"
@@ -8,7 +9,7 @@
     {
       "name": "dchub-cloud",
       "source": "./",
-      "description": "The real-time agentic procurement endpoint and data center knowledge hub."
+      "description": "Data center, power grid and energy data: facilities, markets, interconnection queues, electricity prices, fiber, gas, site risk and incentives, each with a source and date. 67 read-only tools."
     }
   ]
 }
