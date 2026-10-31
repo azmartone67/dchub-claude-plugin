@@ -6,6 +6,8 @@ The plugin connects Claude Code to DC Hub's remote MCP server at https://dchub.c
 
 Install: `/plugin marketplace add azmartone67/dchub-claude-plugin`, or copy `.mcp.json` into your project.
 
+Skills: four workflow skills turn the tools into finished work. `dchub-site-screen` writes a one-page go / caution / no-go screen for a site; `dchub-time-to-power-memo` writes a dated time-to-power memo for a US state or ISO; `dchub-market-compare` compares two to four markets and recommends one; `dchub-capacity-sourcing` finds colocation, turnkey, powered shell or land to lease and requests a provider introduction with your approval.
+
 Try: "Which US markets can take a 200 MW AI campus soonest?" or "What is in the ERCOT interconnection queue?"
 
 - Website: https://dchub.cloud
