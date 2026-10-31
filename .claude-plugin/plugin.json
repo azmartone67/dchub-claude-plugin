@@ -1,7 +1,7 @@
 {
   "name": "dchub-cloud",
   "displayName": "DC Hub",
-  "version": "2.12.43",
+  "version": "2.12.44",
   "description": "Data center, power grid and energy data: facilities, markets, interconnection queues, electricity prices, fiber, gas, site risk and incentives, each with a source and date. 67 read-only tools.",
   "author": {
     "name": "Jonathan Martone",
